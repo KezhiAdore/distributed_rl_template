@@ -1,0 +1,7 @@
+gym==0.26.2
+gym[classic_control]
+gym[box2d]
+torch
+numpy
+tensorboard
+tianshou==0.5.0
